@@ -1,0 +1,1 @@
+export const getAppStore = store => store.appStore;
